@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Presensi</string>
+    <string-array name="status_options">
+        <item>Hadir</item>
+        <item>Izin</item>
+        <item>Sakit</item>
+    </string-array>
+</resources>
